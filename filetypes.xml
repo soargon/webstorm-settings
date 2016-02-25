@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern=".leanengineignore" type="Ignore file" />
+      <mapping pattern="111" type="Native" />
+      <mapping pattern="yysy_rsa" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
