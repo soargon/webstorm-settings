@@ -1,0 +1,6 @@
+<keymap version="1" name="soargon" parent="$default">
+  <action id="Macro.Format and Save">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="SaveAll" />
+</keymap>
