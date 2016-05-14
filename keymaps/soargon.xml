@@ -1,6 +1,11 @@
 <keymap version="1" name="soargon" parent="$default">
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
   <action id="Macro.Format and Save">
     <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
   <action id="SaveAll" />
   <action id="SwitchApply">
